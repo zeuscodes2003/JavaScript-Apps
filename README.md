@@ -1,2 +1,2 @@
 # JavaScript-Apps
-This repo contains javascript apps 👩‍💻
+⚡️This repo contains javascript apps 👩‍💻
