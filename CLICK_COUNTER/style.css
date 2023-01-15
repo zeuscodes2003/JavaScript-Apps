@@ -1,0 +1,8 @@
+#list{
+    display: flex;
+}
+#list button:not(#reset){
+    width: 200px;
+    height: 100px;
+    margin: 0 40px;
+}
